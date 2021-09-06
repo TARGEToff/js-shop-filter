@@ -34,11 +34,37 @@ img {
 }
 
 .items {
-    margin-top: 50px;
+    margin-top: 30px;
+}
+
+.items__cakes {
+    margin-top: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 30px;
 }
+
+.items__cupcakes {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+}
+
+.items__sweets {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+}
+
+.items__donuts {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+}
+
 
 .item__description {
     background-color: black;
